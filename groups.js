@@ -5,7 +5,7 @@ var groups = [
             style: "islands#redIcon",
             items: [
                 {
-                    center: [59.934542, 30.326764],
+                    center: [59.9344412, 30.3267391],
                     name: "Jungle"
                 },
                 {
