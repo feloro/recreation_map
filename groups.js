@@ -5,8 +5,8 @@ var groups = [
             style: "islands#redIcon",
             items: [
                 {
-                    center: [50.426472, 30.563022],
-                    name: "Монумент &quot;Родина-Мать&quot;"
+                    center: [30.326764, 59.934542],
+                    name: "Jungle"
                 },
                 {
                     center: [50.45351, 30.516489],

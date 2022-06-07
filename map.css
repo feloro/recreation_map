@@ -1,0 +1,26 @@
+html, body{
+    width: 100%; padding: 0; margin: 0;
+    font-family: Arial;
+}
+
+#map {
+    width: 95%;
+    height: 250px;
+}
+    /* Оформление меню (начало)*/
+.menu {
+    list-style: none;
+    padding: 5px;
+
+    margin: 0;
+}
+.submenu {
+    list-style: none;
+
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+.submenu li {
+    font-size: 90%;
+}
+    /* Оформление меню (конец)*/
